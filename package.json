@@ -1,0 +1,19 @@
+{
+  "name": "implement-swagger-discussion",
+  "version": "1.0.0",
+  "description": "quick intro to installing packages needed for Wk 25",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "maegan.stayrook@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "swagger-jsdoc": "^6.2.5",
+    "swagger-ui-express": "^4.6.0"
+  },
+  "devDependencies": {}
+}
